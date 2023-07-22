@@ -1,4 +1,4 @@
-PyInstaller==3.4
+PyInstaller==3.6
 altgraph==0.16.1
 appdirs==1.4.3
 future==0.17.1
